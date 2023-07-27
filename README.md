@@ -26,7 +26,7 @@ Este projeto tem o intuito de ser um Modelo do Preço dos Imóveis na Califórni
 
 ## Referências
 
-[KAGGLE]([https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_order_items_dataset.csv](https://www.kaggle.com/datasets/fedesoriano/california-housing-prices-data-extra-features)https://www.kaggle.com/datasets/fedesoriano/california-housing-prices-data-extra-features)
+[KAGGLE](https://www.kaggle.com/datasets/fedesoriano/california-housing-prices-data-extra-features)
 
 
 
